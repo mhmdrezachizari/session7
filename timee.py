@@ -5,3 +5,4 @@ a=int(input("sal tavalod ra mohasevbe konid"))
 b=int(b)
 print(b-a)
 print(type(b))
+#salam alireza va iliya
